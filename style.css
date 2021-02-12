@@ -1,0 +1,28 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+
+    border : 2px solid black;
+    border-radius: 50px;
+
+}
+
+.Origami {
+
+   border-radius: 20px;
+   background-color: white; 
+
+   width: 310px;
+   font-family: fantasy;
+
+}
